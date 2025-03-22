@@ -4,8 +4,11 @@ This repository contains source files for our project as well as a Python notebo
 To see code that generated each figure in the paper, please refer to the following:
 
 Fig 1 - Anton's Assessment/Product Scoring 
+
 Fig 2 - Anton's Assessment/Top 2 Trading Partners/Modularity Comparison/Visualization 
+
 Fig 3 - Aashay's Analysis/Summed and Standardized Contributions by Country 
+
 Fig 4 - Anton's Assessment/Top 2 Trading Partners/Network Visualization (wine network)
 
 We recommend perusing sections on most imported/exported goods as well as the assortativity visualization in Aashay's Analysis for elementary insights into the network features of all the products in the FAO dataset. These findings were not explicitly included in our report in order to preserve its scope.
@@ -19,8 +22,8 @@ Andrew's Approach - Parses FAO data into a dictionary of networks accessible by 
 
 Aashay's Analysis:
 
-**Centrality
-**
+Centrality
+
 Calculation - calculates metrics for each product and generates a dataframe with each row containing country name and metric. This is (pseudo)accessible via centrality_dictionary[product name]
 
 Plot Functions
