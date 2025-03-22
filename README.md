@@ -2,6 +2,7 @@
 This repository contains source files for our project as well as a Python notebook containing our data processing, analysis and visualization apparatus.
 
 To see code that generated each figure in the paper, please refer to the following:
+
 Fig 1 - Anton's Assessment/Product Scoring 
 Fig 2 - Anton's Assessment/Top 2 Trading Partners/Modularity Comparison/Visualization 
 Fig 3 - Aashay's Analysis/Summed and Standardized Contributions by Country 
